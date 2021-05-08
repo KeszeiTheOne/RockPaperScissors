@@ -3,7 +3,6 @@ package game.androidApp
 import android.os.Bundle
 import android.widget.Button
 import androidx.appcompat.app.AppCompatActivity
-import color.androidApp.R
 import game.NewGameAction
 
 class GameMainActivity : AppCompatActivity() {

@@ -1,5 +1,5 @@
 package game
 
 enum class Card {
-    ROCK, PAPER, SCISSORSf
+    ROCK, PAPER, SCISSORS
 }
